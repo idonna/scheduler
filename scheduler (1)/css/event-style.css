@@ -1,0 +1,35 @@
+.navbar-brand {
+  font-size: 400% !important;
+}
+
+.sched {
+  text-align: center;
+}
+
+.sched h1 {
+  font-size: 50px;
+  margin: 0 auto;
+}
+
+#myScheduler {
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #9ac0cd;
+}
+
+.col-md-4 {
+  text-align: center;
+  height: 175px;
+}
+
+.col-md-4 h3 {
+  font-family: times, serif;
+  font-weight: 800;
+  padding: 10px;
+}
+
+.col-md-4 label {
+  font-weight: normal;
+}
